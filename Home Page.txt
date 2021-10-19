@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CS Club</title>
+</head>
+<body>
+
+<h1>Welcome!</h1>
+<h1>About us link</h1>
+<h1>Projects that we have done link here</h1>
+
+
+<h1>A good Discord server(Not associated with the club)</h1>
+<a href="https://discord.gg/5b7QpsmR">Here </a>
+
+<h1>Contact info/link here</h1>
+
+</body>
+</html>
