@@ -1,7 +1,7 @@
 .header{
   overflow: hidden;
   background-color: #aaa;
-  padding: 20px 10px;
+  padding: 16px 10px;
 }
 
 .header a {
@@ -12,7 +12,6 @@
   padding: 10px;
   font-size: 18px;
   line-height: 25px;
-  border-radius: 4px;
 }
 
 /*
@@ -34,9 +33,4 @@
 
 .header-right {
   float: right;
-}
-
-img.resize {
-  width: 50%;
-  height: auto;
 }
