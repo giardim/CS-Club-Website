@@ -43,8 +43,9 @@ a{
   font-size: 1.2vw;
 }
 
-a .hover{
+a:hover{
   color: #f0c330;
+  transition: .25s;
 }
 
 h2{
